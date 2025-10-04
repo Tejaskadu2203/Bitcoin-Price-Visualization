@@ -22,7 +22,7 @@ It helps in understanding:
 - **Pandas** – Data manipulation and cleaning  
 - **Matplotlib** – Line plots and subplots visualization  
 - **Seaborn** – Advanced statistical plotting and distribution plots  
-- **Jupyter Notebook / VS Code** – Development environment
+- **VS Code** – Development environment
 
 ---
 
